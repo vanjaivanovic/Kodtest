@@ -1,0 +1,33 @@
+body {
+	font-family: 'Sanchez', serif;
+}
+
+.bg-blue {
+	background-color: #009ce0;
+} 
+
+.blue {
+	color: #009ce0;
+}
+
+.bg-green {
+	background-color: #b0cb0b;
+}
+
+.bw1 {
+	border-width: 3px;
+}
+
+.img-small {
+	height: 140px;
+	width: 140px;
+	font-size: 12px;
+}
+
+.img-savings {
+	padding-left: 2%;
+}
+
+footer {
+	background-color: #f8f6f0;
+}
